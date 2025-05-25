@@ -8,6 +8,7 @@
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-azure)
 ![GitHub all releases](https://img.shields.io/github/downloads/qompassai/azure/total?style=flat-square)
+
   <a href="https://azure.microsoft.com/">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </a>
